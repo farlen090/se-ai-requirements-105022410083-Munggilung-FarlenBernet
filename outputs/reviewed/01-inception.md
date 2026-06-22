@@ -38,7 +38,7 @@ Untuk mengatasi masalah bisnis di atas, solusi yang diusulkan adalah membangun *
     * Modul unggah/pengumpulan file tugas dan pelacakan status oleh Student.
     * Modul manajemen data pengguna, manajemen data mata kuliah, dan pengaturan konfigurasi sistem oleh Administrator.
 * **Out-of-Scope**:
-    * (Tidak ada batasan ruang lingkup luar yang dinyatakan secara eksplisim dalam dokumen studi kasus awal. Seluruh potensi pengecualian atau perluasan fitur dialihkan ke bagian *Assumptions* dan *Open Questions*).
+    * (Tidak ada batasan ruang lingkup luar yang dinyatakan secara eksplisit dalam dokumen studi kasus awal. Seluruh potensi pengecualian atau perluasan fitur dialihkan ke bagian *Assumptions* dan *Open Questions*).
 
 ## 6. Assumptions and Constraints
 * **ASSUMPTION-01**: Mahasiswa sudah memiliki akun sistem yang valid dan aktif sebelum dapat mengakses fitur tugas.
