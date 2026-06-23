@@ -46,3 +46,30 @@ outputs/raw/elicitation-ai-output.md
 
 ### Final Output
 outputs/reviewed/02-elicitation.md
+
+# Review Skill 5 - Requirements Prioritization and Negotiation
+
+## Kelebihan Output AI
+
+* Seluruh Functional Requirements (FR-01 sampai FR-15) berhasil diprioritaskan menggunakan metode MoSCoW.
+* Setiap prioritas memiliki alasan yang jelas.
+* Dependency Analysis membantu memahami urutan implementasi requirement.
+* Negotiation Notes menjelaskan dasar pengambilan keputusan prioritas.
+
+## Kekurangan Output AI
+
+* Terdapat typo pada nama file sumber "03-requirments.md" yang seharusnya "03-requirements.md".
+* FR-12 tidak muncul pada tabel Dependency Analysis meskipun menjadi requirement penting.
+* Beberapa alasan prioritas masih terlalu panjang dan dapat diringkas.
+* Status Won't Have untuk integrasi SIAKAD belum menggunakan format requirement ID karena berasal dari Open Question.
+
+## Perbaikan yang Dilakukan
+
+* Memperbaiki typo nama file sumber.
+* Menambahkan FR-12 pada analisis dependensi bila diperlukan.
+* Merapikan kalimat alasan prioritas agar lebih ringkas.
+* Memastikan seluruh keputusan prioritas tetap konsisten dengan dokumen requirements sebelumnya.
+
+## Final Output
+
+outputs/reviewed/05-prioritization.md
